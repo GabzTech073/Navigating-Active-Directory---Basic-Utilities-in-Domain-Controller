@@ -3,8 +3,6 @@ In this part of the Tier 1 Project, I will be navigating Active Directory using 
 
 In this domain, I will be using my branch1 organisational unit to showcase the different functional utilities that can be explored in Active Directory. 
 
-<img width="892" height="847" alt="image" src="https://github.com/user-attachments/assets/a0613e2a-bd7e-484d-9c95-f7c3408a6295" />
-
 Now, let's say one of these users within the organisation "adeptuser" had forgotten their password, and made a request to have their password reset on their account, I would go inside branch1, locate the OU titled "Users" with all of the user accounts I made, and find "adeptuser" to reset the password.
 <img width="892" height="847" alt="image" src="https://github.com/user-attachments/assets/e7054933-caea-4dbf-b84f-06833ca38181" />
 
