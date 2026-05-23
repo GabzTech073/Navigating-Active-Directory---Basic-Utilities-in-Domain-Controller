@@ -43,7 +43,11 @@ The users show up in the next window, and I select "adeptuser" to add him into t
 Now when we look at the "Members" tab of the "IT Workers" group, we can see that "adeptuser" has been added as a member.
 <img width="818" height="778" alt="image" src="https://github.com/user-attachments/assets/2261f9d9-d2d1-400d-ac00-2a4ffc1a0e8e" />
 
-I will make a couple more users for the next demonstration of this lab.
+I will make a couple more users for the next demonstration of this lab. "tom brady" and "joe brady". I've added "tom brady" into the IT Workers Group, and so now there are two users in that Group. (adeptuser and tom brady).
+
+So say if Tom Brady's account is locked, and he calls in to IT Support to have his account unlocked, I would double-click on his username within the Domain's dashboard, navigate to the "Account" tab, and then toggle on the "Unlock Account" radio button.
+
+<img width="932" height="828" alt="image" src="https://github.com/user-attachments/assets/c37ea7ef-ccdb-48cb-b293-be929e556191" />
 
 
 
