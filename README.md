@@ -49,6 +49,13 @@ So say if Tom Brady's account is locked, and he calls in to IT Support to have h
 
 <img width="932" height="828" alt="image" src="https://github.com/user-attachments/assets/c37ea7ef-ccdb-48cb-b293-be929e556191" />
 
+Let's say I have another branch in my domain, "branch2", set up similarly to "branch1" and I wanted to move existing users into "branch2", like "tom brady" for instance. This user, Tom, is in "branch1", but he actually got moved to "branch2". And so now he's going to have these policies that are applying to him that have to do with "branch2", that are linked to "branch2". I can just grab Tom and I can move him over to the proper OU that I have to. 
+
+<img width="892" height="837" alt="image" src="https://github.com/user-attachments/assets/32e7fd9e-43bf-4978-b2e1-d57ab0d9970d" />
+
+Let's say I wanted to create more Groups within branch1, like a HR group, a Security group etc. I can also create something known as a "Distribution Group"  Basically, a distribution list is a group of people who when an email is sent to that list, a copy of that email is sent to all people. So if you're in an organization, say an IT organization and you have a group that is ittier one domain.com right and you're a part of that group and you receive all those emails for it tier1dommain.com it might be true that this is a distribution list and every other tier one is also getting a copy of that email; that's a distribution list.
+
+
 
 
 
